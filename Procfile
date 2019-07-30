@@ -1,1 +1,1 @@
-gunicorn contas.wsgi
+web: gunicorn banco.wsgi
